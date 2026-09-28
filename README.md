@@ -13,11 +13,16 @@ I'm a final-year B.Tech student from Pune, India, interested in software develop
 - 🐍 Python
 - 🗄️ SQL
 
+### Data Analysis & Visualization
+- 📊 Power BI
+- 🐼 Pandas
+- 📈 Data Visualization
+
 ### Database & Tools
-- Microsoft SQL Server
-- Git
-- GitHub
-- Visual Studio / VS Code
+- 🗃️ Microsoft SQL Server
+- 🔧 Git
+- 🐙 GitHub
+- 💻 Visual Studio / VS Code
 
 ---
 
